@@ -22,7 +22,7 @@
 <br>
 
 ![ML Engineer](https://img.shields.io/badge/ML_Engineer-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=D4FF3A)
-![Location](https://img.shields.io/badge/San_Francisco-Open_to_Relocate-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=E8E6DC)
+![Location](https://img.shields.io/badge/UnitedStates-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=E8E6DC)
 ![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=FF5C38)
 
 </div>
