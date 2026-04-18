@@ -291,7 +291,7 @@ I'm **actively looking for ML Engineer roles** — full-time, internship, or con
 
 <div align="center">
 
-<sub>📍 <b>San Francisco, CA</b> · Open to relocate · +1 (469) 494-2266</sub>
+<sub>📍 <b>United States</b> · Open to relocate · +1 (469) 494-2266</sub>
 
 <br><br>
 
