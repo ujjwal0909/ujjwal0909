@@ -1,28 +1,23 @@
 <!--
   ═══════════════════════════════════════════════════════════════════════════
-  UJJWAL MANISH PATEL — GitHub Profile README
+  UJJWAL PATEL — GitHub Profile README
   ═══════════════════════════════════════════════════════════════════════════
-  Path: github.com/ujjwal0909/ujjwal0909  (repo name MUST match username)
+  Repo: github.com/ujjwal0909/ujjwal0909   (repo name MUST match username)
   File: README.md
-
-  BEFORE YOU COMMIT, REPLACE THESE 2 THINGS:
-    1. LinkedIn URL:  search for "YOUR-LINKEDIN-HANDLE" and replace it
-    2. Portfolio link works only after you deploy the interactive site
+  Content aligned to résumé (Meta · NVIDIA · IBM) and real GitHub repositories.
+  Snake animation setup instructions are at the bottom of this file.
   ═══════════════════════════════════════════════════════════════════════════
 -->
 
 <!-- ═══════════════  HEADER: ANIMATED TYPING TITLE  ═══════════════ -->
-
 <div align="center">
-
-<a href="https://github.com/ujjwal0909">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=D4FF3A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ujjwal+Patel+%F0%9F%91%8B;ML+Engineer+%7C+2%2B+years+shipping+production+models;Python+%E2%80%A2+PyTorch+%E2%80%A2+Spark+%E2%80%A2+FastAPI+%E2%80%A2+AWS;I+build+learning+systems+that+run+at+scale." alt="Typing header" />
+<a href="https://ujjwal0909.github.io/ujjwal_portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=D4FF3A&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Ujjwal+Patel+%F0%9F%91%8B;ML+%2F+AI+Engineer+%E2%80%94+Meta+%E2%80%A2+NVIDIA+%E2%80%A2+IBM;Python+%E2%80%A2+PyTorch+%E2%80%A2+LangChain+%E2%80%A2+AWS+SageMaker;I+build+learning+systems+that+run+at+scale." alt="Typing header" />
 </a>
-
 <br>
 
-![ML Engineer](https://img.shields.io/badge/ML_Engineer-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=D4FF3A)
-![Location](https://img.shields.io/badge/UnitedStates-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=E8E6DC)
+![ML / AI Engineer](https://img.shields.io/badge/ML_%2F_AI_Engineer-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=D4FF3A)
+![Location](https://img.shields.io/badge/Texas%2C_USA-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=E8E6DC)
 ![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=FF5C38)
 
 </div>
@@ -31,9 +26,9 @@
 
 ### 🎯 About me
 
-I'm an **ML Engineer** with **2+ years of production experience** building classification, regression, and anomaly detection systems on behavioral datasets of **20K–150K+ records**. I deploy low-latency inference APIs (<300ms), run experiment cycles end-to-end, and maintain reproducible pipelines.
+I'm an **ML / AI Engineer** with experience across **Meta, NVIDIA, and IBM**, building and deploying machine-learning systems that run reliably at scale — predictive-maintenance and computer-vision models, fine-tuned **LLMs**, conversational AI agents, and **graph-neural-network** recommendation systems. I care about the engineering that makes AI dependable: low-latency inference, reproducible MLOps, and honest evaluation.
 
-Currently pursuing an **MS in Computer Science at UT Arlington** (GPA 3.5, graduating May 2026), with coursework in Machine Learning, AI, and Distributed Systems.
+Currently pursuing an **MS in Computer Science at UT Arlington** (GPA 3.5, graduating May 2026), with coursework in Machine Learning, AI, NLP, Distributed Systems, and Cloud Computing.
 
 > 🚀 **[→ Explore my interactive portfolio](https://ujjwal0909.github.io/ujjwal_portfolio/)** — the full story, scroll-through format
 
@@ -45,12 +40,12 @@ Currently pursuing an **MS in Computer Science at UT Arlington** (GPA 3.5, gradu
 
 | Metric | Result |
 |:------:|:------:|
-| 📈 **Model accuracy lift** | **+35%** through iterative feature engineering |
-| ⚡ **Inference latency** | **<300ms** on FastAPI + AWS |
-| 🔍 **Anomaly detection coverage** | **95%** of data inconsistencies caught |
-| ⏱️ **Production uptime** | **99%+** sustained |
-| 🐦 **Bird species classifier accuracy** | **84.12%** (200 classes, +12% over baseline) |
-| 🛠️ **Re-training setup time** | **−60%** via Docker + version-controlled logs |
+| 📈 **Equipment uptime** | **+21%** from AI-driven predictive-maintenance models @ Meta |
+| ⚡ **Model deployment time** | **−40%** via Dockerized MLOps workflows (Docker · K8s · MLflow) |
+| 🟢 **Service availability** | **99.9%** for AI serving **100K+ active users** @ NVIDIA |
+| 🎯 **Classification precision** | **+17%** from fine-tuned LLM content moderation |
+| 🧾 **Manual processing time** | **−50%** with BERT + spaCy document classification @ IBM |
+| 🐦 **Bird species classifier** | **84.12%** across 200 classes (+12% over baseline) |
 
 </div>
 
@@ -64,27 +59,42 @@ Currently pursuing an **MS in Computer Science at UT Arlington** (GPA 3.5, gradu
 
 ![Python](https://img.shields.io/badge/Python-0A0A0F?style=for-the-badge&logo=python&logoColor=D4FF3A)
 ![SQL](https://img.shields.io/badge/SQL-0A0A0F?style=for-the-badge&logo=postgresql&logoColor=D4FF3A)
+![R](https://img.shields.io/badge/R-0A0A0F?style=for-the-badge&logo=r&logoColor=D4FF3A)
 ![C++](https://img.shields.io/badge/C++-0A0A0F?style=for-the-badge&logo=cplusplus&logoColor=D4FF3A)
-![Rust](https://img.shields.io/badge/Rust-0A0A0F?style=for-the-badge&logo=rust&logoColor=D4FF3A)
+![Java](https://img.shields.io/badge/Java-0A0A0F?style=for-the-badge&logo=openjdk&logoColor=D4FF3A)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0F?style=for-the-badge&logo=pytorch&logoColor=D4FF3A)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0F?style=for-the-badge&logo=tensorflow&logoColor=D4FF3A)
+![Keras](https://img.shields.io/badge/Keras-0A0A0F?style=for-the-badge&logo=keras&logoColor=D4FF3A)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0F?style=for-the-badge&logo=scikit-learn&logoColor=D4FF3A)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0A0A0F?style=for-the-badge&logoColor=D4FF3A)
-![pandas](https://img.shields.io/badge/pandas-0A0A0F?style=for-the-badge&logo=pandas&logoColor=D4FF3A)
-![NumPy](https://img.shields.io/badge/NumPy-0A0A0F?style=for-the-badge&logo=numpy&logoColor=D4FF3A)
 
 </details>
 
 <details>
-<summary><b>⚙️ Data pipelines & infra</b></summary>
+<summary><b>🧠 LLMs, NLP & vision</b></summary>
+<br>
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0A0A0F?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0F?style=for-the-badge&logo=langchain&logoColor=D4FF3A)
+![spaCy](https://img.shields.io/badge/spaCy-0A0A0F?style=for-the-badge&logo=spacy&logoColor=D4FF3A)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0F?style=for-the-badge&logo=opencv&logoColor=FF5C38)
+![BERT](https://img.shields.io/badge/BERT-0A0A0F?style=for-the-badge&logoColor=D4FF3A)
+![GNNs](https://img.shields.io/badge/Graph_Neural_Nets-0A0A0F?style=for-the-badge&logoColor=D4FF3A)
+![RAG](https://img.shields.io/badge/RAG-0A0A0F?style=for-the-badge&logoColor=D4FF3A)
+
+</details>
+
+<details>
+<summary><b>⚙️ Data pipelines & serving</b></summary>
 <br>
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-0A0A0F?style=for-the-badge&logo=apachespark&logoColor=FF5C38)
+![pandas](https://img.shields.io/badge/pandas-0A0A0F?style=for-the-badge&logo=pandas&logoColor=FF5C38)
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0F?style=for-the-badge&logo=numpy&logoColor=FF5C38)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=for-the-badge&logo=fastapi&logoColor=FF5C38)
-![Kafka](https://img.shields.io/badge/Kafka-0A0A0F?style=for-the-badge&logo=apachekafka&logoColor=FF5C38)
-![Flink](https://img.shields.io/badge/Flink-0A0A0F?style=for-the-badge&logo=apacheflink&logoColor=FF5C38)
-![gRPC](https://img.shields.io/badge/gRPC-0A0A0F?style=for-the-badge&logo=grpc&logoColor=FF5C38)
-![Snowflake](https://img.shields.io/badge/Snowflake-0A0A0F?style=for-the-badge&logo=snowflake&logoColor=FF5C38)
+![Ray](https://img.shields.io/badge/Ray-0A0A0F?style=for-the-badge&logo=ray&logoColor=FF5C38)
+![Airflow](https://img.shields.io/badge/Airflow-0A0A0F?style=for-the-badge&logo=apacheairflow&logoColor=FF5C38)
+![FAISS](https://img.shields.io/badge/FAISS-0A0A0F?style=for-the-badge&logoColor=FF5C38)
 
 </details>
 
@@ -94,10 +104,11 @@ Currently pursuing an **MS in Computer Science at UT Arlington** (GPA 3.5, gradu
 
 ![AWS](https://img.shields.io/badge/AWS-0A0A0F?style=for-the-badge&logo=amazonwebservices&logoColor=E8E6DC)
 ![SageMaker](https://img.shields.io/badge/SageMaker-0A0A0F?style=for-the-badge&logo=amazon&logoColor=E8E6DC)
-![S3](https://img.shields.io/badge/S3-0A0A0F?style=for-the-badge&logo=amazons3&logoColor=E8E6DC)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0A0A0F?style=for-the-badge&logo=microsoftazure&logoColor=E8E6DC)
+![Databricks](https://img.shields.io/badge/Databricks-0A0A0F?style=for-the-badge&logo=databricks&logoColor=E8E6DC)
 ![Docker](https://img.shields.io/badge/Docker-0A0A0F?style=for-the-badge&logo=docker&logoColor=E8E6DC)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0F?style=for-the-badge&logo=kubernetes&logoColor=E8E6DC)
 ![MLflow](https://img.shields.io/badge/MLflow-0A0A0F?style=for-the-badge&logo=mlflow&logoColor=E8E6DC)
-![Git](https://img.shields.io/badge/Git-0A0A0F?style=for-the-badge&logo=git&logoColor=E8E6DC)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0F?style=for-the-badge&logo=githubactions&logoColor=E8E6DC)
 
 </details>
@@ -106,7 +117,7 @@ Currently pursuing an **MS in Computer Science at UT Arlington** (GPA 3.5, gradu
 <summary><b>📐 Stats & methods</b></summary>
 <br>
 
-`Probability` · `Hypothesis testing` · `Cross-validation` · `Bayesian methods` · `Hyperparameter tuning` · `Drift detection` · `Feature engineering` · `Experiment tracking` · `Model monitoring` · `Behavioral prediction` · `Anomaly & fraud detection` · `Embedding pipelines`
+`Supervised & unsupervised learning` · `Deep learning` · `Reinforcement learning` · `Hypothesis testing` · `Cross-validation` · `Hyperparameter tuning` · `Model compression` · `Drift detection` · `Feature engineering` · `Experiment tracking` · `Model monitoring` · `Anomaly & fraud detection` · `Embedding pipelines`
 
 </details>
 
@@ -116,15 +127,30 @@ Currently pursuing an **MS in Computer Science at UT Arlington** (GPA 3.5, gradu
 
 <table>
 <tr>
-<td width="180"><b>ML Engineer</b><br><sub>Devai Technologies</sub><br><sub>Jul 2021 – Jul 2024</sub></td>
-<td>
-
-Designed & deployed classification, regression, and ensemble models for **behavioral prediction and anomaly detection** across 20K–150K+ record batches. Ran 10+ experiment cycles and improved accuracy by **35%**.
-
-Built production pipelines in **Python + SQL + Apache Spark** for large-scale training and evaluation. Integrated new data sources and analyzed their downstream impact on model performance.
-
-Deployed **low-latency FastAPI inference** on AWS (<300ms) with full experiment tracking, monitoring, and drift detection.
-
+<td width="185" valign="top"><b>ML Engineer</b><br><sub>Meta Platforms Inc.</sub><br><sub>Texas, USA</sub><br><sub>Jun 2025 – Aug 2025</sub></td>
+<td valign="top">
+Built & deployed AI-driven <b>predictive-maintenance</b> models (Python, TensorFlow, AWS SageMaker) → <b>+21% equipment uptime</b>.<br>
+Real-time ML pipelines for sensor data → <b>−30% inference latency</b> via model compression + GPU optimization.<br>
+MLOps with Docker, Kubernetes & MLflow → <b>−40% deployment time</b>; reproducible and compliant with Meta's production standards.<br>
+RL-based resource optimization for distributed compute → <b>+15% GPU/compute utilization</b> at lower infra cost.
+</td>
+</tr>
+<tr>
+<td width="185" valign="top"><b>AI Engineer</b><br><sub>NVIDIA Corporation</sub><br><sub>India</sub><br><sub>Jun 2023 – Jun 2024</sub></td>
+<td valign="top">
+Fine-tuned <b>LLMs</b> for content moderation & personalization → <b>+17% classification precision</b>.<br>
+Conversational AI agents (PyTorch, HF Transformers, LangChain) → <b>+25% user engagement</b>.<br>
+Automated training/eval pipelines (Airflow, Ray) → <b>+35% experiment turnaround</b>.<br>
+<b>GNN</b> recommendation enhancements → +10% session duration; productionized AI for <b>100K+ users at 99.9% availability</b>.
+</td>
+</tr>
+<tr>
+<td width="185" valign="top"><b>ML Engineer</b><br><sub>IBM Corporation</sub><br><sub>India</sub><br><sub>Aug 2021 – May 2023</sub></td>
+<td valign="top">
+Supervised & unsupervised models (Python, scikit-learn, SQL) → <b>+22% forecast accuracy</b>.<br>
+NLP document classification (BERT, spaCy) → <b>−50% manual processing time</b>.<br>
+MLOps on IBM Cloud (Watson Studio) for deployment & monitoring.<br>
+AI <b>anomaly-detection</b> for financial transactions → <b>−32% false positives</b> and stronger compliance analytics.
 </td>
 </tr>
 </table>
@@ -137,28 +163,48 @@ Deployed **low-latency FastAPI inference** on AWS (<300ms) with full experiment 
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 [Multi-Agent AI Reasoning System](https://github.com/ujjwal0909/Multi-Agent-AI-System)
+#### 🧠 [MeetingMemory](https://github.com/ujjwal0909/meetingmemory)
+Hybrid **graph + vector RAG** over meeting transcripts — ask in plain English, get **cited** answers.
+- NetworkX graph + FAISS vectors with a query router
+- ~89% answer accuracy; 94% citation precision
+- Cross-meeting contradiction detection
 
-Modular ML inference pipelines across **4 high-throughput data sources** with REST endpoints at **<400ms** latency and **1,000+ daily requests** — mirroring online ad-serving infrastructure.
-
-- Behavioral feature pipelines with caching & validation
-- 10+ architecture cycles → **error rate: 18% → <4%**
-- 6-stage anomaly detection → **95% inconsistency catch rate**, **99%+ uptime**
-
-`Python` `ML` `Agents` `REST API`
+`Python` `RAG` `FAISS` `NetworkX`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📊 [Telematics Insurance Dashboard](https://github.com/ujjwal0909/Telematics-based-auto-insurance)
+#### 🍳 [MealMind](https://github.com/ujjwal0909/mealmind)
+**Vision-LLM** app: a fridge photo → 3 ranked recipes in under 10s.
+- 3-stage pipeline with Pydantic structured outputs
+- 5-bucket quantity calibration → fewer hallucinated items
+- Multi-objective recipe ranking + preference loop
 
-Classification & regression for behavioral prediction on **50K+ records** — **+12% accuracy** over baseline.
+`Python` `Vision LLM` `Pydantic` `Streamlit`
 
-- Spark + Python training pipelines with automated benchmarking across **8 KPIs** (ROC-AUC, F1, precision, recall)
-- Ensemble models in batch scoring with fraud-signal anomaly checks
-- Full experiment documentation for reproducible model promotion
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Spark` `Python` `Ensemble` `Risk Modeling`
+#### ✉️ [InboxZero AI](https://github.com/ujjwal0909/inboxzero-ai)
+Email triage assistant with **embedding-based voice cloning**.
+- Haiku classifier (urgency/action) → Sonnet drafter
+- FAISS retrieval of your most similar past replies
+- Classifier-first routing cut per-email cost ~70%
+
+`Python` `FAISS` `Gmail API` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 [Multi-Agent AI Reasoning System](https://github.com/ujjwal0909/Multi-Agent-AI-System)
+Fully **local** multi-agent system with RAG and explainable traces.
+- Planner / Reasoner / optional Critic, conditional execution
+- FAISS RAG for document-grounded answers
+- Runs on ~8 GB RAM · FastAPI backend + dashboard
+
+`Python` `FastAPI` `Ollama` `FAISS`
 
 </td>
 </tr>
@@ -166,32 +212,37 @@ Classification & regression for behavioral prediction on **50K+ records** — **
 <td width="50%" valign="top">
 
 #### 🐦 [Bird Species Classifier (200-class)](https://github.com/ujjwal0909/efficientnet-bird-species-classifier)
+**84.12%** test accuracy on 200-class fine-grained recognition (~20K images).
+- EfficientNetB0 + ImageNet transfer learning
+- Augmentation (rotation / flip / scale) for robustness
+- Single-image inference script
 
-**84.12% accuracy** on 200-class fine-grained classification (~20K samples) — **+12% over baseline**.
-
-- EfficientNet + transfer learning
-- 5-fold CV + hyperparameter search across **30+ runs**
-- **Model variance reduced 18%**
-- Docker artifacts + version-controlled logs → **−60% re-training setup time**
-
-`PyTorch` `EfficientNet` `Transfer Learning` `Docker`
+`PyTorch` `EfficientNet` `Transfer Learning`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🌐 [Distributed Auction Platform](https://github.com/ujjwal0909/Distributed-Online-Auction-Platform)
+Two architectures for a real-time auction system — because models don't serve themselves.
+- **Go** microservices vs. Python layered, head-to-head
+- Real-time updates via server-sent events (no polling)
+- Dockerized across 5+ nodes + benchmark script
 
-Concurrent, fault-tolerant online auction system in **Go** — because models don't serve themselves.
-
-- Concurrent bid handling
-- Service coordination & replication
-- Built during Distributed Systems coursework at UTA
-
-`Go` `gRPC` `Distributed Systems`
+`Go` `Docker` `gRPC` `SSE`
 
 </td>
 </tr>
 </table>
+
+<!-- Live, clickable repo cards -->
+<div align="center">
+<a href="https://github.com/ujjwal0909/meetingmemory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal0909&repo=meetingmemory&theme=transparent&hide_border=true&title_color=D4FF3A&text_color=E8E6DC&icon_color=FF5C38&bg_color=0A0A0F" height="120" />
+</a>
+<a href="https://github.com/ujjwal0909/mealmind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal0909&repo=mealmind&theme=transparent&hide_border=true&title_color=D4FF3A&text_color=E8E6DC&icon_color=FF5C38&bg_color=0A0A0F" height="120" />
+</a>
+</div>
 
 ---
 
@@ -205,6 +256,16 @@ Concurrent, fault-tolerant online auction system in **Go** — because models do
 <br>
 
 <img height="165" src="https://streak-stats.demolab.com?user=ujjwal0909&theme=transparent&hide_border=true&background=0A0A0F&ring=D4FF3A&fire=FF5C38&currStreakLabel=D4FF3A&sideLabels=E8E6DC&currStreakNum=E8E6DC&dates=8A887E&sideNums=E8E6DC" />
+
+<br><br>
+
+<!-- Contribution activity line graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal0909&bg_color=0A0A0F&color=E8E6DC&line=D4FF3A&point=FF5C38&area=true&hide_border=true" alt="Contribution activity graph" width="95%" />
+
+<br><br>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ujjwal0909&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 <br><br>
 
@@ -223,15 +284,15 @@ Concurrent, fault-tolerant online auction system in **Go** — because models do
 <td width="50"><b>🎓</b></td>
 <td>
 <b>University of Texas at Arlington</b> · MS Computer Science<br>
-<sub>Aug 2024 – May 2026 · GPA 3.5/4.0</sub><br>
-<sub>Machine Learning · AI · Distributed Systems · Cloud & Big Data · DBMS · DSA</sub>
+<sub>Graduating May 2026 · GPA 3.5/4.0</sub><br>
+<sub>Machine Learning · Artificial Intelligence · NLP · Distributed Systems · Cloud Computing</sub>
 </td>
 </tr>
 <tr>
 <td><b>🎓</b></td>
 <td>
 <b>Mumbai University</b> · BS Computer Science<br>
-<sub>Aug 2019 – May 2023 · GPA 3.8/4.0</sub><br>
+<sub>May 2023 · GPA 3.8/4.0</sub><br>
 <sub>Statistics · Probability · Data Mining · Computer Vision · NLP</sub>
 </td>
 </tr>
@@ -245,18 +306,10 @@ Concurrent, fault-tolerant online auction system in **Go** — because models do
 <summary><b>Click to see all my certifications</b></summary>
 <br>
 
-- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** + **AI Foundations Associate**
-  <sub>LLMs, RAG, prompt engineering, AI system evaluation, ML lifecycle — 10+ structured modules</sub>
-
+- **Oracle Cloud Infrastructure 2025 — Certified Generative AI Professional** + **AI Foundations Associate**
+  <sub>LLMs, RAG, prompt engineering, AI system evaluation, ML lifecycle</sub>
 - **Google Cloud Facilitator Program** — 13+ Skill Badges
-  <sub>BigQuery ML, Cloud SQL, ML APIs, Cloud Security, DevOps · 13,010+ skill points</sub>
-
-- **Data Science Masters (300+ hrs)**
-  <sub>Statistical modeling, ML, visualization, big data tools on real business problems</sub>
-
-- **Google Project Management (Coursera, ~150 hrs)**
-  <sub>Agile, Scrum, risk management, stakeholder communication</sub>
-
+  <sub>BigQuery ML, Cloud SQL, ML APIs, Cloud Security, DevOps</sub>
 - **[LeetCode Profile](https://leetcode.com/u/ujjwalpatel346)** — actively solving problems
 
 </details>
@@ -265,14 +318,14 @@ Concurrent, fault-tolerant online auction system in **Go** — because models do
 
 ### 📫 Let's talk
 
-I'm **actively looking for ML Engineer roles** — full-time, internship, or contract. Based in San Francisco, open to relocation.
+I'm **actively looking for ML / AI Engineer roles** — full-time, internship, or contract. Based in **Texas**, open to relocation.
 
 <div align="center">
 
-<a href="mailto:ujjwalpersonal09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ujjwalpersonal09%40gmail.com-D4FF3A?style=for-the-badge&logo=gmail&logoColor=0A0A0F&labelColor=0A0A0F" />
+<a href="mailto:patelujjwal524@gmail.com">
+  <img src="https://img.shields.io/badge/Email-patelujjwal524%40gmail.com-D4FF3A?style=for-the-badge&logo=gmail&logoColor=0A0A0F&labelColor=0A0A0F" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+<a href="https://linkedin.com/in/ujjwal-patel09">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=D4FF3A&labelColor=0A0A0F" />
 </a>
 <a href="https://github.com/ujjwal0909">
@@ -290,20 +343,15 @@ I'm **actively looking for ML Engineer roles** — full-time, internship, or con
 <br>
 
 <div align="center">
-
-<sub>📍 <b>United States</b> · Open to relocate · +1 (469) 494-2266</sub>
-
+<sub>📍 <b>Texas, USA</b> · Open to relocate · +1 (469) 494-2266</sub>
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=ujjwal0909&label=Profile%20views&color=d4ff3a&style=flat" alt="Profile views" />
-
 </div>
 
 <!--
 ═════════════════════════════════════════════════════════════════════════════
  HOW TO ENABLE THE SNAKE ANIMATION  (one-time setup, ~5 minutes)
 ═════════════════════════════════════════════════════════════════════════════
-
 The snake that eats your contribution graph is generated by a GitHub Action
 that runs every 12 hours. Here's how to turn it on:
 
@@ -313,7 +361,6 @@ that runs every 12 hours. Here's how to turn it on:
 2. Inside that folder, create a file called: snake.yml
 
 3. Paste this exact content into snake.yml:
-
    ────────────────────────────────────────────────────────────────────────
    name: Generate Snake
    on:
@@ -344,6 +391,5 @@ that runs every 12 hours. Here's how to turn it on:
    "Run workflow" manually once to generate the first snake SVG.
 
 5. Done. The snake will auto-refresh every 12 hours.
-
 ═════════════════════════════════════════════════════════════════════════════
 -->
