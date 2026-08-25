@@ -29,7 +29,6 @@ I'm an **ML / AI Engineer** with experience at **Meta, NVIDIA, and IBM**, workin
 
 Currently finishing an **MS in Computer Science at UT Arlington** (graduating May 2026), with coursework in Machine Learning, AI, NLP, Distributed Systems, and Cloud Computing.
 
-> 🚀 **[→ Explore my interactive portfolio](https://ujjwal0909.github.io/ujjwal_portfolio/)** — the full story, scroll-through format
 
 ---
 
