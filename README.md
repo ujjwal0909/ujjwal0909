@@ -419,9 +419,6 @@ I'm **actively looking for ML / AI Engineer roles** — full-time, internship, o
 <a href="https://leetcode.com/u/ujjwalpatel346">
   <img src="https://img.shields.io/badge/LeetCode-Solve-0A0A0F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A0A0F" />
 </a>
-<a href="https://ujjwal0909.github.io/ujjwal_portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Interactive-0A0A0F?style=for-the-badge&logo=safari&logoColor=FF5C38&labelColor=0A0A0F" />
-</a>
 
 </div>
 
